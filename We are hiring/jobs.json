@@ -1,0 +1,54 @@
+[
+  {
+    "name": "SDE",
+    "company": "Google",
+    "department": "IT",
+    "salary": 10000,
+    "lwr_grad": 2002,
+    "upp_grad": 2020,
+    "lwr_exp": 2,
+    "upp_exp": 6,
+    "lwr_GPA": 8.0,
+    "upp_GPA": null,
+    "no_positions": 1
+  },
+  {
+    "name": "SDE Intern",
+    "company": "Google",
+    "department": "IT",
+    "salary": 5000,
+    "lwr_grad": null,
+    "upp_grad": null,
+    "lwr_exp": null,
+    "upp_exp": 2,
+    "lwr_GPA": 9.0,
+    "upp_GPA": null,
+    "no_positions": 1
+  },
+  {
+    "name": "SDE",
+    "company": "Amazon",
+    "department": "IT",
+    "salary": 12000,
+    "lwr_grad": 2014,
+    "upp_grad": 2020,
+    "lwr_exp": 1,
+    "upp_exp": null,
+    "lwr_GPA": 9.0,
+    "upp_GPA": null,
+    "no_positions": 1
+  },
+  {
+    "name": "SDE Intern",
+    "company": "Amazon",
+    "department": "IT",
+    "salary": 6000,
+    "lwr_grad": null,
+    "upp_grad": null,
+    "lwr_exp": null,
+    "upp_exp": 2,
+    "lwr_GPA": 9.35,
+    "upp_GPA": null,
+    "no_positions": 1
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Amazon",
+    "manager": "Jeff Bezos",
+    "departments": [
+      {
+        "IT": true,
+        "Management": true,
+        "Marketing": true,
+        "Finance": true
+      }
+    ]
+  },
+  {
+    "name": "Google",
+    "manager": "Sundar Pichai",
+    "departments": [
+      {
+        "IT": true,
+        "Management": true,
+        "Marketing": true,
+        "Finance": true
+      }
+    ]
+  }
+]
